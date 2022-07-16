@@ -7,3 +7,9 @@
 - Add a sort description to your fetch request to efficiently sort your fetched results.
 - Fetching large amounts of information can block the main thread. Use NSAsynchronousFetchRequest to offload some of this work to a background thread.
 - NSBatchUpdateRequest and NSBatchDeleteRequest reduce the amount of time and memory required to update or delete a large number of records in Core Data.
+
+## Key words
+```
+bubble tea app, model custom fetchRequest, filter setting, NSExpression,
+NSSortDescriptor(A-Z), NSAsynchronousFetchRequest, NSBatchUpdateRequest
+```
